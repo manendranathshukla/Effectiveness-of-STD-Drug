@@ -12,16 +12,16 @@ my task is to make a sophisticated NLP-based Machine Learning model that has the
 
 The dataset has the following columns:
 
-Variable Name			Description
+ Variable Name			Description
 
-patient_id		->	ID of patients
-name _of_drug		->	Name of the drug prescribed
-use_case_fro_drug	->	Purpose of the drug
-review_by_patient	->	Review by patient
-drug_approved_by_UIC		Date of approval of the drug by UIC
-number_of_times_prescribed  ->	Number of times the drug is prescribed
-effectiveness_rating	    ->	Effectiveness of drug
-base_score		    ->	Generated score(Target Variable)
+- patient_id		->	ID of patients
+- name _of_drug		->	Name of the drug prescribed
+- use_case_fro_drug	->	Purpose of the drug
+- review_by_patient	->	Review by patient
+- drug_approved_by_UIC		Date of approval of the drug by UIC
+- number_of_times_prescribed  ->	Number of times the drug is prescribed
+- effectiveness_rating	    ->	Effectiveness of drug
+- base_score		    ->	Generated score(Target Variable)
 
 # Approach
 
@@ -61,7 +61,7 @@ I saved 4 subission file of each model.Then I submitted the submission file to t
 # Result
 I predicted the base socre with trained model and I saved a submission file as csv file having two column as "patient_id" and "base_score".
 
-***My rank was 158 out of 3712 participants feel free to [check here](https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-std-drug-effectiveness/leaderboard/effectiveness-of-std-drugs-cc3e4cc9/page/4/#)
+***My rank was 156 out of 3712 participants feel free to [check here](https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-std-drug-effectiveness/leaderboard/effectiveness-of-std-drugs-cc3e4cc9/page/4/#)
 Happy Learning!***
 
 
